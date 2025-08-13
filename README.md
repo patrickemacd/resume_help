@@ -1,8 +1,7 @@
 # Resume Optimizer - Web Interface
 
-I have built this AI workflow to help me apply for jobs in a more efficient manner. Although simple, it has helped me fine-tune my resume in respect to the job description that I am applying for.It utilizes a very simple flask app for input. Feel free to change the model, I am currently using gpt-4o-mini.
+I have built this AI workflow to help me apply for jobs in a more efficient manner. I've been taking some courses on implementing LLMs within my code and thought this could be a cool way to help A) learn more B) help my job search. Although simple, it has helped me fine-tune my resume in respect to the job description that I am applying for. It utilizes a very simple flask app for input. Feel free to change the model and prompt. I am currently using gpt-4o-mini.
 
-*THE ATS SCORE IS A ESTIMATION OF THE ACTUAL SCORE*
 
 ## Quick Start
 
